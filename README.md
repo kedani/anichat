@@ -16,6 +16,15 @@ anichat
 ・チャットルーム作成機能
 ・チャットルーム削除機能
 
+使用言語
+・Ruby
+・Ruby on rails
+・HTML
+・CSS
+・JavaScript
+
+
+
 ## users テーブル
 
 | Column   | Type   | Options     |
